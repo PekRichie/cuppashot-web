@@ -1,0 +1,22 @@
+{
+  "name": "CuppaShot – Pék Richárd",
+  "short_name": "CuppaShot",
+  "description": "Kávé. Adat. Elemzés. AI-alapú termékfejlesztés, SaaS és automatizáció.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#120b08",
+  "theme_color": "#120b08",
+  "lang": "hu",
+  "icons": [
+    {
+      "src": "/assets/img/favicon-64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
